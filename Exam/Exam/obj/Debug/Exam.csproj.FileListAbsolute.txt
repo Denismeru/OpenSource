@@ -1,0 +1,8 @@
+C:\fgf\Exam\Exam\bin\Debug\Exam.exe.config
+C:\fgf\Exam\Exam\bin\Debug\Exam.exe
+C:\fgf\Exam\Exam\bin\Debug\Exam.pdb
+C:\fgf\Exam\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+C:\fgf\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\fgf\Exam\Exam\obj\Debug\Exam.exe
+C:\fgf\Exam\Exam\obj\Debug\Exam.pdb
+C:\fgf\Exam\Exam\obj\Debug\Exam.csproj.CopyComplete
